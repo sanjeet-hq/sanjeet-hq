@@ -8,7 +8,7 @@ I am a **Senior Software Engineer** with a strong background in building robust,
 - ⚡ **Philosophy:** Writing clean, privacy-focused, and efficient code that bridges complex AI models with everyday user utility.
 
 ### 📊 Tech Stack & Tools
-`Python` `Flutter` `C++` `PyTorch` `OpenCV` `Android Studio` `AWS`
+`Python` `PyTorch` `OpenCV` `AWS` 
 
 ### 🛠️ What I'm Building
 * **Visual AI Projects:** [Link your CV repos here]
