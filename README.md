@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Sanjeet! 👋
 
-<!--
-**sanjeet-hq/sanjeet-hq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Senior Software Engineer** with a strong background in building robust, production-grade architectures, currently channeling my engineering expertise into **Computer Vision and Deep Learning**.
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Transitioning fully into Computer Vision, Edge AI, and reasoning-first agentic workflows.
+- 🛠️ **Core Tech:** Python, Flutter, Mobile & Desktop Architectures.
+- 🧠 **CV Interests:** Object detection, image segmentation, and bringing visual intelligence to offline-first architectures.
+- ⚡ **Philosophy:** Writing clean, privacy-focused, and efficient code that bridges complex AI models with everyday user utility.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Tech Stack & Tools
+`Python` `Flutter` `C++` `PyTorch` `OpenCV` `Android Studio` `AWS`
+
+### 🛠️ What I'm Building
+* **Visual AI Projects:** [Link your CV repos here]
+* **DailyBeetle:** A privacy-first, offline-first gamified productivity system.
