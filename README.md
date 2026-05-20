@@ -13,3 +13,7 @@ I am a **Senior Software Engineer** with a strong background in building robust,
 ### 🛠️ What I'm Building
 * **Visual AI Projects:** [Link your CV repos here]
 * **DailyBeetle:** A privacy-first, offline-first gamified productivity system.
+
+
+
+[Kaggle Profile](https://www.kaggle.com/sanjeethq)
